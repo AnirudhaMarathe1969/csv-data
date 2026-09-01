@@ -1,101 +1,102 @@
-shipment_id,vehicle_id,driver_name,origin,destination,shipment_date,distance_km,vehicle_type,shipment_status,freight_cost
-SHP0001,VH644,Tina Odom,South Kimberly,Ballardtown,2026-03-16,882,Van,Delivered,74927.71
-SHP0002,VH968,Howard Kelly,Jenniferchester,East Regina,2025-09-08,425,Van,Delivered,17741.54
-SHP0003,VH351,Brett Barnett,Evelynhaven,Port Kennethmouth,2026-07-28,1536,Trailer,Pending,44711.33
-SHP0004,VH362,Thomas Steele,Elizabethfurt,Jacksonside,2026-03-11,1842,Van,Pending,84641.63
-SHP0005,VH860,Mr. Gregory Bishop,Clarkton,West Tiffanymouth,2025-10-21,1225,Truck,Delivered,35966.01
-SHP0006,VH498,Colin Fleming,West Christineville,Lake Gavinstad,2026-02-19,1554,Trailer,Pending,5228.44
-SHP0007,VH510,Thomas Ewing,Jacobsborough,Jenniferberg,2026-01-10,1058,Truck,Pending,35415.65
-SHP0008,VH133,Taylor Lambert,West Mary,North Jennifer,2025-11-25,1901,Truck,Pending,15615.99
-SHP0009,VH115,Nancy Dickerson,New Geoffrey,Angelamouth,2026-03-16,670,Truck,In Transit,46015.01
-SHP0010,VH976,Zachary Joseph,Matthewfurt,Taylorville,2026-07-06,566,Truck,In Transit,11824.75
-SHP0011,VH281,Michael Thompson,Port Desireefort,Wattsview,2026-04-10,212,Truck,Pending,55002.76
-SHP0012,VH841,Renee Clark,Lake Samanthafurt,Christophertown,2026-03-28,531,Van,Pending,74891.46
-SHP0013,VH603,Brandon Cross,Meadowsmouth,Jensenchester,2026-02-21,311,Trailer,Pending,61777.21
-SHP0014,VH780,Kimberly Hodges,West Alicia,New Heather,2025-10-22,215,Truck,Delivered,85128.57
-SHP0015,VH914,Jacob Bailey,Lake Joshuastad,Wyattmouth,2026-04-03,939,Trailer,Pending,95072.84
-SHP0016,VH305,Amy Swanson,Gonzaleztown,Rogerland,2026-04-27,1043,Van,In Transit,27177.59
-SHP0017,VH692,Sandy Robinson,Richardberg,Glenntown,2026-08-17,1613,Van,Delivered,31917.48
-SHP0018,VH619,Samantha Wells,Stevensville,Roseshire,2025-11-07,1855,Trailer,In Transit,17986.69
-SHP0019,VH122,Jamie Williams,Vegafort,Michaelville,2025-12-25,560,Van,In Transit,23055.14
-SHP0020,VH901,Tonya Gonzalez,New Russellport,South Davidview,2026-05-04,933,Van,Delivered,61339.08
-SHP0021,VH133,Richard Cabrera,Lake Raymond,Cabreramouth,2025-11-10,1514,Trailer,Pending,34505.79
-SHP0022,VH846,Susan Berry,Smithtown,Lake Josephview,2025-12-09,1441,Van,In Transit,26561.44
-SHP0023,VH933,Lisa West,Lake Tiffanyside,North Brianna,2025-10-08,747,Trailer,In Transit,27576.88
-SHP0024,VH863,James Peterson,Lauriemouth,Doyletown,2026-05-09,1685,Van,Delivered,23178.45
-SHP0025,VH308,Alyssa Rowe,Port Aaron,Mayostad,2026-07-26,1744,Truck,Delivered,97008.19
-SHP0026,VH105,Bianca Smith MD,North Christine,East Tracy,2026-06-11,297,Trailer,In Transit,54430.95
-SHP0027,VH622,Amanda Mckay,West Amyside,Port Erin,2025-12-05,1462,Trailer,In Transit,69467.91
-SHP0028,VH464,Alicia Morales,South Erinhaven,Stephenfurt,2026-07-04,616,Van,In Transit,60858.8
-SHP0029,VH106,Mrs. Kristen Stewart DVM,Andreaborough,East Valerie,2025-11-21,1367,Van,In Transit,13560.24
-SHP0030,VH515,Natalie Pitts,South Wyattchester,Thompsonchester,2026-01-01,923,Trailer,Pending,39613.06
-SHP0031,VH617,Robert Hernandez,North Richardhaven,Woodport,2026-08-12,1598,Van,Delivered,92808.45
-SHP0032,VH889,Julian Benitez,Osbornton,Owenschester,2025-10-21,1748,Truck,Pending,6003.64
-SHP0033,VH532,Wendy Marshall,Port Saraberg,West Sheilaberg,2025-11-20,1539,Trailer,In Transit,50189.19
-SHP0034,VH392,Kimberly Washington,Rileyland,East Josephberg,2026-06-20,587,Trailer,In Transit,40778.66
-SHP0035,VH857,Eric Hamilton,Lake Deborahton,Hartburgh,2026-07-15,1648,Trailer,Delivered,33622.28
-SHP0036,VH362,Jacqueline Gomez,Leeberg,Sharonberg,2025-11-24,111,Van,Pending,56743.82
-SHP0037,VH733,Brandon Bryant,Stephanieville,East Dustin,2026-01-12,1394,Van,Pending,71885.84
-SHP0038,VH395,Alicia Mccormick,Lake Joelborough,Fergusonhaven,2026-04-01,379,Van,In Transit,51204.66
-SHP0039,VH342,Brenda Cuevas,Hawkinston,Lake Amanda,2026-06-23,1097,Trailer,Delivered,28417.08
-SHP0040,VH366,Sally Porter,Royfurt,Port Kyle,2026-04-08,1554,Truck,Pending,98993.25
-SHP0041,VH242,Mr. Roger Mcdonald II,New Frank,New Lindsay,2026-05-21,117,Trailer,Pending,40812.19
-SHP0042,VH107,Emily Brown,Sheliaside,New Thomas,2026-03-21,102,Van,Delivered,69355.15
-SHP0043,VH589,Emily Peterson,Johnsonberg,South April,2025-09-15,1770,Trailer,Delivered,39510.3
-SHP0044,VH153,Cheryl Ramirez,North Raymondfurt,North Beckybury,2025-11-13,111,Truck,Pending,30036.97
-SHP0045,VH873,Jeffrey Martinez,West Martinstad,Lovestad,2026-03-20,866,Van,Delivered,62102.21
-SHP0046,VH848,Jeffrey Lee,New Jeremy,Robertburgh,2026-06-17,595,Truck,Pending,14192.55
-SHP0047,VH968,Heidi Taylor,Chavezhaven,Port Kevinton,2025-10-08,685,Truck,Delivered,32408.79
-SHP0048,VH625,Jamie Wood,New Mike,New Brandon,2025-12-16,1871,Van,Pending,41998.62
-SHP0049,VH879,Lucas Francis,Denisemouth,Phillipstown,2026-04-05,277,Trailer,Pending,10442.29
-SHP0050,VH575,Leah Roberts,Garnerborough,Donnaton,2025-12-31,242,Van,Pending,74371.32
-SHP0051,VH486,Paula Taylor,West Lisa,Jonesview,2026-05-28,1889,Trailer,Pending,82288.87
-SHP0052,VH500,Mr. Michael Kennedy,Brownburgh,Waremouth,2026-03-17,1110,Truck,Pending,64492.89
-SHP0053,VH860,Mr. John Baker,Howellville,New Brentchester,2025-10-22,601,Trailer,Pending,43823.46
-SHP0054,VH408,Ruth Wallace,Aaronstad,Caitlinport,2026-02-06,125,Van,Pending,9432.0
-SHP0055,VH373,Douglas Johnson,South Whitney,Hallton,2025-09-12,338,Truck,Pending,19218.41
-SHP0056,VH157,Jeffrey Campos,Marvinhaven,Mitchellberg,2025-11-22,1931,Van,Pending,53603.1
-SHP0057,VH574,Thomas Flowers,North Katherinefort,West Davidfort,2026-03-22,1130,Truck,Pending,48788.72
-SHP0058,VH952,Tony Page,Michaeltown,Ballardshire,2025-09-14,521,Trailer,In Transit,89852.93
-SHP0059,VH701,Zachary Taylor,Lake Markland,Markberg,2025-10-07,1416,Trailer,Pending,63251.53
-SHP0060,VH741,Brianna Bell,Lake Rebekah,Lake Christopherfort,2026-01-02,692,Truck,Delivered,76010.66
-SHP0061,VH665,Kurt Cook,Benjaminmouth,Territon,2026-08-15,1173,Truck,In Transit,57801.72
-SHP0062,VH825,Mr. Curtis Gordon MD,Charlesfort,Malikside,2026-04-21,204,Trailer,In Transit,68321.8
-SHP0063,VH315,Kathleen Campos,Lake Jill,Villegastown,2026-02-20,1126,Van,Pending,38079.25
-SHP0064,VH355,Matthew Gregory,Port Gary,Sarahberg,2026-03-06,1558,Van,Delivered,77444.8
-SHP0065,VH392,Sheila Davis,Jonathanhaven,Nunezville,2025-09-11,504,Trailer,Delivered,24461.5
-SHP0066,VH832,Carrie Cain,West Justin,Port Jasonville,2026-04-15,152,Truck,Delivered,50966.99
-SHP0067,VH326,Tracy Simmons,Port Sarah,Blackstad,2026-01-26,1704,Van,Pending,79395.32
-SHP0068,VH406,Justin Rios,Lake Hayleyberg,Port Shannonhaven,2025-12-20,1382,Truck,Pending,71083.81
-SHP0069,VH950,Allison Mitchell,New Karen,South Krystalview,2025-10-21,306,Van,Pending,17741.84
-SHP0070,VH866,Angela Bell,Port Laurenport,Lake Michaelton,2026-08-29,758,Truck,Pending,9373.02
-SHP0071,VH562,Casey Murillo,West Davidville,Guerreroberg,2025-09-30,609,Van,Pending,14855.15
-SHP0072,VH837,Michael King,New Josephborough,East Ashleyville,2026-01-10,700,Truck,Delivered,17068.07
-SHP0073,VH282,Hannah Brown,East Gregg,Jenniferburgh,2026-03-24,1811,Truck,Pending,50308.09
-SHP0074,VH898,Kelly Fuller,Barrettfurt,Stephensmouth,2026-07-03,252,Truck,Pending,29204.82
-SHP0075,VH212,Leon Gray,Bryanhaven,Andrewton,2026-04-10,1742,Van,Delivered,15270.19
-SHP0076,VH116,Emily Vaughn,West Jonathan,Nicoleborough,2026-03-04,785,Truck,In Transit,77344.14
-SHP0077,VH282,Dana Mcdonald,West Elijah,West Lorettabury,2025-09-09,1041,Van,Delivered,88549.4
-SHP0078,VH220,Erin Johnson,Catherineside,East Brett,2026-01-10,498,Trailer,Delivered,99131.82
-SHP0079,VH575,Dakota Odonnell,Jacquelinefort,West Annview,2025-11-05,1445,Truck,In Transit,86006.85
-SHP0080,VH289,Kimberly Holmes,Jeffreyborough,North Todd,2026-06-06,1561,Van,Delivered,70205.73
-SHP0081,VH106,Michael Smith,Amyberg,Lake Christopher,2026-01-30,1680,Truck,Pending,72134.3
-SHP0082,VH280,Mark Bolton,Coopershire,Danielberg,2026-04-23,282,Van,Pending,58990.73
-SHP0083,VH655,Sheila Thomas,Rivasside,Lake Christiantown,2026-01-04,1348,Van,Pending,28710.94
-SHP0084,VH335,Angela Buchanan,East Jeremyton,Andersonton,2025-09-13,638,Truck,Delivered,33303.73
-SHP0085,VH132,Robert Jones,Lake Adam,North Philip,2026-02-19,1504,Truck,Pending,41838.95
-SHP0086,VH191,Anna Adams,Freemanshire,Michaelbury,2026-03-30,1033,Truck,In Transit,78433.3
-SHP0087,VH602,Tiffany Gallagher,Port Kelly,Smithfort,2026-03-03,1306,Truck,In Transit,98620.98
-SHP0088,VH199,Robert Stanley,East Loristad,Sheppardside,2026-01-28,1111,Van,Pending,24125.84
-SHP0089,VH822,Lindsay Peters,Gilmorebury,Burgesschester,2026-03-27,657,Van,In Transit,44798.26
-SHP0090,VH522,William Cohen,Samuelmouth,East Ashley,2026-03-15,1759,Trailer,In Transit,25378.26
-SHP0091,VH995,Melissa Harvey,South Bryan,Dayside,2026-04-29,1463,Van,Pending,83208.0
-SHP0092,VH601,Marilyn Wise,East Douglasport,South Victor,2026-03-20,604,Trailer,In Transit,82135.68
-SHP0093,VH815,Jessica Vazquez,Port Bobbyberg,Robinsonhaven,2025-12-14,765,Trailer,Delivered,33277.83
-SHP0094,VH277,Brian Gay,Monicafort,Port Shelbyfort,2025-10-30,1372,Truck,Pending,39584.18
-SHP0095,VH244,Anna Hunter,Terrellview,New Leah,2026-01-02,676,Van,In Transit,60182.26
-SHP0096,VH102,Tracy Green,Sallyhaven,South Gabrielle,2025-12-03,989,Trailer,Delivered,35567.86
-SHP0097,VH880,Emily Robertson,Nguyenland,Zamoraview,2026-01-17,231,Van,In Transit,61452.65
-SHP0098,VH650,Sandra Mccarty,Zunigashire,South Joseport,2026-02-21,1302,Van,Pending,31371.52
-SHP0099,VH324,Jessica Smith,Marissaton,East Mark,2026-04-16,1350,Van,Delivered,61550.07
-SHP0100,VH627,Jennifer Jackson,Georgeview,West Holly,2025-11-11,195,Van,Pending,43859.37
+shipment_id,vehicle_id,driver_name,origin,destination,shipment_date,distance_km,vehicle_type,shipment_status,freight_cost,delivery_date,fuel_consumption_litre,fuel_cost,cargo_weight_kg,delivery_priority
+SHP0050,VH575,Catherine Davis,Kimberlychester,Larrychester,2026-05-04,598,Trailer,Pending,75070.13,2026-08-12,294.41,9870.67,14096,High
+SHP0051,VH760,Mr. Kevin Williams,Sanchezfort,South Robertstad,2026-06-11,409,Van,Delivered,40220.01,2026-08-18,146.63,14789.76,9680,High
+SHP0052,VH657,Curtis Cross,North Michelleborough,New Nichole,2026-08-01,192,Truck,Delivered,9029.5,2026-08-14,215.73,3637.51,16397,High
+SHP0053,VH364,Linda Hart,North Natalieberg,Taylorport,2025-10-05,1753,Trailer,Delivered,86162.63,2026-08-17,278.94,2738.66,15803,Medium
+SHP0054,VH640,Sandra Hall,North Stephanie,Smithstad,2026-08-30,1280,Trailer,Pending,35647.68,2026-08-30,72.18,2334.1,9691,High
+SHP0055,VH328,Becky Moore,Port Dean,South Meganhaven,2025-10-29,260,Truck,Pending,7426.84,2026-08-06,216.38,3871.09,15211,High
+SHP0056,VH822,William Goodman,East Kristaview,Nicholsonmouth,2025-11-12,503,Truck,Pending,45985.02,2026-08-29,299.44,3711.0,11420,High
+SHP0057,VH672,Erin Adams,West Cindy,Quinnburgh,2026-08-08,305,Truck,In Transit,99525.74,2026-08-27,156.51,14407.27,14899,Medium
+SHP0058,VH394,Megan Williams,Shawnville,South Markton,2026-03-19,160,Truck,In Transit,68173.57,2026-08-29,104.26,1564.71,3590,High
+SHP0059,VH272,Kurt Harding,Lake Fernando,Lake Wendy,2026-05-03,881,Van,Delivered,53320.58,2026-08-11,176.11,6442.93,19149,High
+SHP0060,VH954,Amanda Hayes MD,Lake Jamie,West Robertshire,2025-12-30,505,Van,Delivered,75209.44,2026-08-24,213.11,2575.86,3004,High
+SHP0061,VH802,Heather Stevens,Jimmyborough,Kaylashire,2026-03-08,1718,Van,Delivered,61784.72,2026-08-14,405.98,14599.67,10810,Low
+SHP0062,VH355,Stacy Allen,Wendyland,Lake Erinmouth,2026-03-18,1406,Trailer,In Transit,99582.07,2026-08-22,41.69,9203.57,9828,Medium
+SHP0063,VH644,Marcus Jones,West Kaitlyn,Lake Kevin,2025-11-20,543,Van,Pending,75635.33,2026-08-29,177.0,14810.24,13570,High
+SHP0064,VH100,Lisa Clark,Velasquezport,Millstown,2025-10-11,1231,Trailer,Delivered,90994.61,2026-08-07,290.33,9280.54,1933,High
+SHP0065,VH480,Darren Martin DDS,South Maria,Ianport,2026-06-02,1324,Van,Pending,74040.49,2026-08-16,77.26,8314.29,17019,Medium
+SHP0066,VH286,Elizabeth Brown,Hallshire,Kevinland,2026-06-02,195,Van,Pending,63548.81,2026-08-22,38.62,2997.87,16984,Medium
+SHP0067,VH719,Sandra Taylor,Lake John,Flemingport,2026-06-16,384,Truck,Pending,42233.6,2026-08-19,372.15,14485.85,10126,High
+SHP0068,VH637,Erika Turner,Amystad,Carolynton,2025-09-28,827,Van,Delivered,60117.73,2026-08-27,176.54,2546.65,1268,Medium
+SHP0069,VH982,Troy Mills,Pageton,North Johnmouth,2026-03-13,745,Truck,Delivered,50114.31,2026-08-26,378.05,7922.11,3087,High
+SHP0070,VH829,Brian Juarez,Port Valeriefurt,Cherylfort,2025-12-04,1829,Van,In Transit,56071.08,2026-08-13,229.34,6953.42,12242,High
+SHP0071,VH922,Kristen Harris,Perryview,West Stephanie,2026-08-19,1518,Truck,In Transit,39542.57,2026-08-14,230.68,12930.38,8880,Medium
+SHP0072,VH353,Renee Underwood,West Karenfort,Alvarezshire,2025-12-26,287,Trailer,In Transit,45270.63,2026-08-31,231.57,9224.46,15905,High
+SHP0073,VH538,James Miller,Karenmouth,Acevedoborough,2026-05-13,1485,Trailer,Pending,25306.71,2026-08-10,78.61,11982.89,14500,Medium
+SHP0074,VH369,Brendan Moyer,Dawnmouth,East Kimberlystad,2026-07-25,1664,Truck,Pending,84380.24,2026-08-25,192.47,8875.99,18813,Medium
+SHP0075,VH457,Christopher Beard,Georgechester,South Donald,2025-10-14,491,Trailer,Delivered,26345.27,2026-08-30,280.67,1256.84,6246,Low
+SHP0076,VH960,Donald Johnson,New Phillipfurt,Carneyborough,2026-05-14,1755,Van,In Transit,18006.77,2026-08-27,394.18,7147.05,19347,Medium
+SHP0077,VH865,Hannah Ortiz,Port Emily,Brockville,2025-11-16,1273,Van,Pending,22517.41,2026-08-18,140.21,14154.38,6843,Medium
+SHP0078,VH715,Lisa Gentry,Millerville,Osbornhaven,2025-11-03,807,Truck,Pending,29766.86,2026-08-24,50.52,1953.74,5379,Medium
+SHP0079,VH308,Joseph Stark,Ericaside,Combsfort,2026-02-25,1846,Van,Pending,41894.32,2026-08-26,316.91,13767.21,11252,Medium
+SHP0080,VH758,Jason Hancock,Christiantown,Toddside,2026-06-18,528,Truck,Pending,15144.29,2026-08-27,119.9,12331.68,4268,Medium
+SHP0081,VH937,Melissa Huff,Mitchellmouth,Peggystad,2025-11-18,1647,Trailer,In Transit,38829.01,2026-08-26,128.38,6527.6,6951,Medium
+SHP0082,VH878,Amy Zhang,Hawkinsmouth,Toddport,2026-08-02,848,Trailer,Pending,64950.19,2026-08-07,29.54,7924.48,3696,Low
+SHP0083,VH723,Hunter Mitchell,South Lisaburgh,West Candace,2025-10-07,695,Truck,Pending,66634.65,2026-08-15,112.73,7353.44,18298,Medium
+SHP0084,VH999,Kevin Briggs,Kingview,Lake Bryanhaven,2026-01-28,87,Van,Pending,16099.48,2026-08-29,188.03,8385.01,14257,High
+SHP0085,VH837,Paula Johnson,New Eduardomouth,Howellfurt,2025-12-26,1029,Trailer,Delivered,56956.66,2026-08-03,335.75,2086.42,10943,Medium
+SHP0086,VH434,Michelle Watson,Port Taylor,Cartermouth,2026-03-06,1840,Van,Delivered,31867.97,2026-08-03,489.89,5750.37,14120,Low
+SHP0087,VH163,Samuel Doyle,Hernandezstad,Port Joelchester,2025-12-08,677,Truck,Pending,94493.0,2026-08-15,323.1,11151.78,14556,High
+SHP0088,VH491,Amber Mcconnell,Heatherfurt,Millermouth,2026-06-02,360,Trailer,Delivered,23087.53,2026-08-12,24.72,14169.36,14618,Low
+SHP0089,VH901,Linda Edwards,Port Helen,Ellisview,2025-10-25,1734,Trailer,Pending,71372.0,2026-08-13,198.62,12272.25,17860,Medium
+SHP0090,VH352,Brittney Cunningham,Moorefort,Phillipsland,2026-07-07,1625,Van,In Transit,61444.51,2026-08-18,93.19,5894.83,14299,Medium
+SHP0091,VH770,Juan Harrell DVM,Webermouth,New Larry,2026-05-25,1053,Trailer,Delivered,29583.2,2026-08-27,402.51,8218.43,624,Medium
+SHP0092,VH924,Craig Griffin,New Richardstad,North Joshuamouth,2026-03-19,1891,Trailer,In Transit,50538.92,2026-08-18,127.56,14770.61,16984,Medium
+SHP0093,VH306,Michael Morris,New Sean,Port William,2025-12-22,733,Van,Pending,84444.37,2026-08-12,91.33,3596.75,2792,Medium
+SHP0094,VH606,Christina Robbins,Lake Justin,North Andreaburgh,2026-05-17,410,Van,Delivered,87705.08,2026-08-05,81.89,11022.42,1302,High
+SHP0095,VH444,Deborah Trevino,New Calebside,Williamsfort,2026-01-07,1476,Truck,Pending,59730.65,2026-08-23,341.75,14624.1,16985,High
+SHP0096,VH373,Roberta Hancock,Port Joanview,West Angela,2025-09-07,964,Trailer,Delivered,20489.14,2026-08-19,284.45,8774.2,18981,High
+SHP0097,VH216,Scott Ellison,South Travis,North Brianberg,2026-06-14,1148,Trailer,Pending,84199.58,2026-08-20,449.43,14762.06,16028,High
+SHP0098,VH245,Annette Diaz,North Beth,New Jenniferberg,2026-07-09,1518,Van,Delivered,7185.69,2026-08-24,227.32,9338.34,16017,Medium
+SHP0099,VH420,Rebecca Hunt,Barrychester,Sullivanside,2026-08-10,791,Truck,In Transit,72015.07,2026-08-06,113.01,9587.1,12696,Medium
+SHP0100,VH976,Todd Crawford,Port James,Pinedaberg,2026-08-15,1529,Trailer,Delivered,64283.65,2026-08-18,45.47,6147.05,8403,High
+SHP0101,VH757,Christine Ashley,Williamtown,West Stephenborough,2025-09-15,489,Trailer,Delivered,98501.39,2026-08-29,317.17,12868.26,4311,Medium
+SHP0102,VH372,Andrew Harper,Kennethchester,South Richard,2025-09-18,593,Truck,Pending,84213.42,2026-08-16,355.78,3797.51,6931,Medium
+SHP0103,VH842,Kevin Torres,East Alejandro,Drewfort,2025-09-21,1936,Van,Pending,88766.36,2026-08-28,115.48,14649.56,12022,Low
+SHP0104,VH174,Kayla Collins,Port Angela,South Michael,2026-08-19,331,Truck,In Transit,14450.97,2026-08-17,170.0,11926.11,16595,Low
+SHP0105,VH224,Becky Fox,Jayside,Lake Jonathanberg,2025-10-31,1868,Truck,Pending,58052.42,2026-08-02,239.39,10332.87,9308,Medium
+SHP0106,VH451,Matthew Kaiser,Owenstown,Morenoside,2025-09-16,275,Truck,In Transit,93218.02,2026-08-09,431.53,12861.33,17473,Medium
+SHP0107,VH682,Nancy Myers,West Kelsey,Crosston,2026-02-02,196,Truck,Pending,64080.61,2026-08-21,216.86,3599.57,17031,Low
+SHP0108,VH571,Paul Finley Jr.,Lake Timothy,North Virginia,2026-06-01,1787,Trailer,In Transit,64439.23,2026-08-18,253.01,2997.79,2191,Low
+SHP0109,VH579,Wendy Cohen,Davidland,East Joelside,2026-04-26,1672,Trailer,Pending,5518.1,2026-08-19,298.06,11729.84,7558,Medium
+SHP0110,VH123,Anthony Krause,Lake Bradchester,East David,2026-02-03,1852,Trailer,In Transit,7469.82,2026-08-25,491.24,1307.3,2155,Medium
+SHP0111,VH203,Michael Bryant,Isabellaland,East Robert,2025-09-24,1661,Van,Delivered,96463.46,2026-08-15,216.68,3290.54,2580,High
+SHP0112,VH391,Stephanie Howell,West Adrienne,Lake Stephenchester,2026-06-24,458,Van,Delivered,22622.73,2026-08-04,457.96,8471.86,14629,Medium
+SHP0113,VH388,William Dixon,Camposland,Jenningsbury,2025-12-18,1769,Trailer,Pending,32737.08,2026-08-17,106.88,5202.3,377,Medium
+SHP0114,VH288,Cristian Smith,Lake Gabriel,Danielleburgh,2025-09-01,1140,Trailer,Pending,94549.09,2026-08-12,352.39,4295.9,1046,Medium
+SHP0115,VH763,Danielle Mosley,Lake Jennifer,Robinsonton,2026-08-19,1722,Van,Delivered,83692.82,2026-08-26,415.39,6862.75,6943,Medium
+SHP0116,VH947,Paul Ochoa,Matthewfort,South Mark,2026-08-18,1067,Trailer,Delivered,97471.01,2026-08-13,87.98,4457.94,2960,Low
+SHP0117,VH244,Tyler Alvarez,Smithfort,Lake Catherine,2026-05-29,734,Trailer,Delivered,25639.36,2026-08-08,151.18,1980.18,15979,Low
+SHP0118,VH802,Brianna Peterson,East Cynthia,Patriciaport,2025-12-21,274,Trailer,Delivered,84549.47,2026-08-23,359.45,12069.09,11627,High
+SHP0119,VH929,Fred Taylor,Lake Peter,Whitemouth,2026-06-05,1946,Trailer,In Transit,18728.93,2026-08-26,69.42,6983.95,14749,Medium
+SHP0120,VH508,Jesse Young,Devonland,Port Maryland,2025-11-26,867,Truck,Delivered,15498.98,2026-08-30,259.59,5335.87,227,High
+SHP0121,VH289,Terrance Johns,Velezchester,New Jasonbury,2025-12-26,190,Truck,In Transit,40244.61,2026-08-18,325.74,11574.46,2822,Medium
+SHP0122,VH646,Gavin Campbell,Diamondmouth,New Makaylabury,2025-10-11,1354,Truck,In Transit,56089.32,2026-08-21,402.43,2386.98,3211,Medium
+SHP0123,VH405,Andrew Garcia,Lake Amandaland,Port Courtney,2025-11-03,566,Trailer,Delivered,16337.39,2026-08-03,167.23,6545.61,7786,Low
+SHP0124,VH230,Jill Frazier,Carolburgh,South Elijahburgh,2025-12-24,1824,Trailer,Delivered,11818.28,2026-08-09,452.99,2638.26,17634,Low
+SHP0125,VH698,Jonathan Higgins,Anthonymouth,Danielhaven,2025-12-29,1730,Van,In Transit,44850.77,2026-08-03,445.62,3457.17,19324,Medium
+SHP0126,VH438,James Velasquez,Wallacefort,Lake Daniel,2026-04-05,536,Trailer,In Transit,19016.25,2026-08-24,197.71,9640.62,7400,Medium
+SHP0127,VH270,James Kelly,Kevinville,East Duane,2026-06-20,1879,Van,Pending,23922.28,2026-08-23,36.18,9602.79,7443,Medium
+SHP0128,VH661,Samantha Byrd,West Anna,Port John,2025-12-25,337,Trailer,Delivered,36302.43,2026-08-10,242.78,14260.14,3447,Low
+SHP0129,VH121,Ronald Robbins,West Dannytown,Jenniferburgh,2025-10-16,651,Trailer,Pending,73813.8,2026-08-07,311.83,9249.88,6677,Medium
+SHP0130,VH674,Mallory Wood,Annhaven,Smithbury,2025-12-28,653,Trailer,Delivered,83408.94,2026-08-25,210.5,3728.15,10855,Medium
+SHP0131,VH280,Gerald Henderson,South Tammy,Port Tracystad,2026-01-24,857,Truck,In Transit,73672.98,2026-08-28,74.45,6550.73,17155,Low
+SHP0132,VH546,Allison Mclean,Port Amanda,Patriciashire,2026-08-10,1953,Truck,Delivered,17916.97,2026-08-04,103.09,3864.07,18065,Low
+SHP0133,VH597,Charles Boyle,New Andrew,North Stephentown,2025-09-16,1206,Truck,Pending,73906.46,2026-08-30,392.06,7736.27,13451,Low
+SHP0134,VH652,James Bradley,East Ethan,Angelborough,2026-01-29,278,Trailer,In Transit,40206.2,2026-08-28,298.86,7850.73,3441,Low
+SHP0135,VH552,Crystal Fields,Port Juliefurt,Lake Austinland,2025-11-02,1248,Trailer,Pending,47978.31,2026-08-02,229.65,12486.79,4241,Low
+SHP0136,VH804,Mrs. Linda Leonard,New Daniel,Lake Noah,2026-07-27,1917,Trailer,Pending,69713.87,2026-08-04,129.86,14067.98,14647,Low
+SHP0137,VH377,Alexis Jones,Sarahberg,East Justinmouth,2025-10-29,1290,Trailer,In Transit,35204.07,2026-08-14,21.21,9863.7,7398,Medium
+SHP0138,VH421,Craig Reynolds,New Brandon,West Sarahfurt,2026-08-24,340,Truck,In Transit,73124.94,2026-08-08,173.34,1553.72,9079,High
+SHP0139,VH775,Ashley Hodge,West Juan,Port Chrisshire,2026-05-06,673,Van,In Transit,64416.14,2026-08-23,280.1,7773.38,9864,Low
+SHP0140,VH621,Lauren Thomas,Port Julieborough,Port Corey,2026-03-31,1298,Van,Pending,45621.88,2026-08-14,94.94,9676.6,18305,Low
+SHP0141,VH682,April Grant,New Danielside,Williamside,2026-04-24,406,Van,Pending,6179.87,2026-08-03,344.66,7770.13,15912,High
+SHP0142,VH963,Mark Torres,East James,Port Ronald,2026-08-19,569,Truck,Pending,93411.37,2026-08-16,196.94,8289.96,19521,High
+SHP0143,VH622,Teresa Rice,Williamton,New Devinshire,2025-11-25,1034,Truck,In Transit,33688.98,2026-08-17,42.74,12625.51,1704,Medium
+SHP0144,VH140,Jane Mcdowell,Andrewton,Hoffmanburgh,2026-04-06,314,Trailer,Delivered,49642.94,2026-08-09,383.64,14877.92,9934,Medium
+SHP0145,VH459,Joseph Williams,South Kristinview,Stephenport,2025-11-30,563,Van,Delivered,81597.0,2026-08-27,260.86,9613.3,19930,Low
+SHP0146,VH697,Lisa Carroll,Lake Linda,Jacobshire,2026-06-20,641,Van,Delivered,71596.78,2026-08-15,186.44,13569.44,9007,Medium
+SHP0147,VH357,Michael Kerr,New Michaelhaven,East Meganstad,2026-07-05,503,Trailer,Pending,97629.18,2026-08-06,144.81,5366.99,3305,High
+SHP0148,VH861,Richard Glenn,Lewismouth,Port Shawn,2026-02-22,1673,Truck,Delivered,55477.97,2026-08-07,452.01,1283.83,9273,Medium
+SHP0149,VH880,Kevin Morales,New Jameston,West Ronald,2025-09-23,1647,Van,Pending,54033.8,2026-08-09,248.49,4493.88,12425,Medium
+SHP0150,VH809,Angela Solis,Richardchester,South George,2026-06-08,1504,Trailer,Delivered,23888.09,2026-08-26,141.81,13695.7,15766,Medium

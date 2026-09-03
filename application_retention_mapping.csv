@@ -1,0 +1,6 @@
+mapping_id,application_name,table_name,retention_period_years
+1,Bank Application,bank_application_data,2
+2,Insurance Application,insurance_application_data,3
+3,E-Commerce Application,ecommerce_application_data,4
+4,Healthcare Application,healthcare_application_data,5
+5,Logistics Application,logistics_application_data,2

@@ -1,0 +1,101 @@
+shipment_key,consignment_number,sender_name,receiver_name,warehouse_code,origin_city,destination_city,package_type,package_weight_kg,shipping_charge,delivery_status,record_date,record_year
+1,CN50001,Sender_1,Receiver_1,WH976,Delhi,Ahmedabad,Envelope,69.41,19195.87,Delivered,2024-04-03,2024
+2,CN50002,Sender_2,Receiver_2,WH651,Delhi,Kolkata,Box,93.06,8744.74,Booked,2019-08-19,2019
+3,CN50003,Sender_3,Receiver_3,WH427,Pune,Kolkata,Box,97.25,8290.09,Cancelled,2022-07-29,2022
+4,CN50004,Sender_4,Receiver_4,WH539,Mumbai,Chennai,Pallet,79.49,16113.78,Delayed,2025-06-28,2025
+5,CN50005,Sender_5,Receiver_5,WH332,Delhi,Ahmedabad,Crate,70.16,2734.3,Delayed,2018-09-28,2018
+6,CN50006,Sender_6,Receiver_6,WH809,Hyderabad,Jaipur,Envelope,27.33,5310.42,Cancelled,2021-09-19,2021
+7,CN50007,Sender_7,Receiver_7,WH521,Hyderabad,Chennai,Crate,42.98,12986.36,Cancelled,2020-01-21,2020
+8,CN50008,Sender_8,Receiver_8,WH228,Bengaluru,Nagpur,Pallet,9.77,9256.72,Cancelled,2026-03-27,2026
+9,CN50009,Sender_9,Receiver_9,WH106,Delhi,Chennai,Crate,47.54,19788.88,Cancelled,2020-05-12,2020
+10,CN50010,Sender_10,Receiver_10,WH266,Hyderabad,Chennai,Envelope,25.99,20274.25,Delivered,2021-03-11,2021
+11,CN50011,Sender_11,Receiver_11,WH747,Hyderabad,Chennai,Box,64.97,17088.8,Delivered,2019-01-20,2019
+12,CN50012,Sender_12,Receiver_12,WH531,Bengaluru,Nagpur,Crate,76.93,9830.36,Booked,2024-08-08,2024
+13,CN50013,Sender_13,Receiver_13,WH224,Delhi,Chennai,Box,7.22,16730.97,Cancelled,2023-03-14,2023
+14,CN50014,Sender_14,Receiver_14,WH414,Delhi,Ahmedabad,Crate,9.34,4083.12,In Transit,2018-10-11,2018
+15,CN50015,Sender_15,Receiver_15,WH774,Mumbai,Chennai,Envelope,13.65,24555.14,Booked,2019-12-08,2019
+16,CN50016,Sender_16,Receiver_16,WH802,Delhi,Chennai,Envelope,50.27,6100.76,Delivered,2022-03-01,2022
+17,CN50017,Sender_17,Receiver_17,WH703,Mumbai,Kolkata,Crate,40.71,8762.6,In Transit,2026-07-01,2026
+18,CN50018,Sender_18,Receiver_18,WH975,Mumbai,Nagpur,Pallet,82.74,8450.92,Delayed,2021-03-08,2021
+19,CN50019,Sender_19,Receiver_19,WH145,Pune,Nagpur,Crate,28.81,20205.1,Delivered,2022-05-02,2022
+20,CN50020,Sender_20,Receiver_20,WH828,Delhi,Nagpur,Box,10.4,1800.24,Booked,2022-12-07,2022
+21,CN50021,Sender_21,Receiver_21,WH741,Bengaluru,Jaipur,Pallet,29.82,16636.75,In Transit,2022-01-17,2022
+22,CN50022,Sender_22,Receiver_22,WH951,Pune,Nagpur,Envelope,25.28,24420.97,Booked,2021-08-21,2021
+23,CN50023,Sender_23,Receiver_23,WH610,Pune,Kolkata,Box,69.73,18133.31,Booked,2024-12-22,2024
+24,CN50024,Sender_24,Receiver_24,WH674,Mumbai,Kolkata,Crate,96.42,12185.98,Cancelled,2021-11-02,2021
+25,CN50025,Sender_25,Receiver_25,WH637,Delhi,Jaipur,Box,16.15,23431.49,Delivered,2019-03-23,2019
+26,CN50026,Sender_26,Receiver_26,WH301,Mumbai,Kolkata,Envelope,78.41,7286.49,Delayed,2024-05-13,2024
+27,CN50027,Sender_27,Receiver_27,WH755,Hyderabad,Nagpur,Box,22.02,1052.85,Booked,2025-10-16,2025
+28,CN50028,Sender_28,Receiver_28,WH988,Mumbai,Kolkata,Envelope,11.18,20494.2,Booked,2020-11-12,2020
+29,CN50029,Sender_29,Receiver_29,WH845,Bengaluru,Kolkata,Envelope,36.42,9759.34,Booked,2021-07-25,2021
+30,CN50030,Sender_30,Receiver_30,WH186,Delhi,Jaipur,Box,4.78,11959.15,Delivered,2019-11-01,2019
+31,CN50031,Sender_31,Receiver_31,WH898,Mumbai,Nagpur,Crate,46.38,11438.53,Cancelled,2023-06-05,2023
+32,CN50032,Sender_32,Receiver_32,WH982,Mumbai,Chennai,Envelope,66.58,13383.68,Delayed,2024-08-13,2024
+33,CN50033,Sender_33,Receiver_33,WH927,Delhi,Nagpur,Crate,73.18,24002.9,Delayed,2021-12-05,2021
+34,CN50034,Sender_34,Receiver_34,WH256,Hyderabad,Kolkata,Box,53.2,9906.31,Delivered,2024-08-07,2024
+35,CN50035,Sender_35,Receiver_35,WH792,Delhi,Ahmedabad,Pallet,34.83,23156.93,In Transit,2022-06-18,2022
+36,CN50036,Sender_36,Receiver_36,WH172,Hyderabad,Nagpur,Pallet,54.86,15930.56,Delayed,2019-11-18,2019
+37,CN50037,Sender_37,Receiver_37,WH655,Mumbai,Jaipur,Envelope,14.65,14400.67,Delivered,2023-12-28,2023
+38,CN50038,Sender_38,Receiver_38,WH770,Delhi,Chennai,Pallet,24.93,24850.55,Cancelled,2023-10-10,2023
+39,CN50039,Sender_39,Receiver_39,WH102,Delhi,Kolkata,Box,91.29,12558.82,Delayed,2022-08-21,2022
+40,CN50040,Sender_40,Receiver_40,WH639,Hyderabad,Ahmedabad,Crate,28.62,23151.82,In Transit,2022-06-11,2022
+41,CN50041,Sender_41,Receiver_41,WH677,Bengaluru,Jaipur,Crate,92.04,23292.74,Delivered,2020-09-08,2020
+42,CN50042,Sender_42,Receiver_42,WH483,Hyderabad,Jaipur,Box,41.27,16888.83,Booked,2021-10-19,2021
+43,CN50043,Sender_43,Receiver_43,WH651,Delhi,Nagpur,Crate,6.42,16083.99,Delayed,2019-02-27,2019
+44,CN50044,Sender_44,Receiver_44,WH379,Bengaluru,Jaipur,Pallet,97.88,860.87,Delivered,2020-08-26,2020
+45,CN50045,Sender_45,Receiver_45,WH733,Mumbai,Ahmedabad,Box,72.63,19299.04,Booked,2025-07-16,2025
+46,CN50046,Sender_46,Receiver_46,WH173,Mumbai,Jaipur,Box,98.49,7375.05,Booked,2022-10-17,2022
+47,CN50047,Sender_47,Receiver_47,WH935,Pune,Jaipur,Crate,16.88,22715.15,In Transit,2026-01-28,2026
+48,CN50048,Sender_48,Receiver_48,WH390,Mumbai,Chennai,Pallet,87.14,10735.41,Delayed,2021-04-04,2021
+49,CN50049,Sender_49,Receiver_49,WH561,Hyderabad,Kolkata,Box,92.32,17811.61,In Transit,2024-07-09,2024
+50,CN50050,Sender_50,Receiver_50,WH366,Delhi,Ahmedabad,Envelope,59.12,21993.36,Delayed,2021-12-22,2021
+51,CN50051,Sender_51,Receiver_51,WH332,Hyderabad,Jaipur,Pallet,39.51,14631.1,In Transit,2023-01-13,2023
+52,CN50052,Sender_52,Receiver_52,WH624,Bengaluru,Nagpur,Pallet,59.81,5629.02,In Transit,2020-09-14,2020
+53,CN50053,Sender_53,Receiver_53,WH479,Hyderabad,Chennai,Pallet,11.09,22303.02,Delayed,2024-11-14,2024
+54,CN50054,Sender_54,Receiver_54,WH504,Pune,Ahmedabad,Box,31.71,3091.97,Delayed,2024-07-17,2024
+55,CN50055,Sender_55,Receiver_55,WH266,Mumbai,Chennai,Envelope,2.89,17494.82,Booked,2020-07-02,2020
+56,CN50056,Sender_56,Receiver_56,WH922,Bengaluru,Ahmedabad,Pallet,79.15,20579.1,Cancelled,2024-09-20,2024
+57,CN50057,Sender_57,Receiver_57,WH947,Hyderabad,Ahmedabad,Box,71.78,17661.48,Delayed,2022-04-25,2022
+58,CN50058,Sender_58,Receiver_58,WH768,Mumbai,Nagpur,Box,30.05,10646.65,Delayed,2024-11-03,2024
+59,CN50059,Sender_59,Receiver_59,WH502,Mumbai,Jaipur,Pallet,79.59,18265.97,Delayed,2020-09-03,2020
+60,CN50060,Sender_60,Receiver_60,WH658,Hyderabad,Chennai,Crate,82.12,23702.83,Booked,2022-06-23,2022
+61,CN50061,Sender_61,Receiver_61,WH295,Pune,Jaipur,Envelope,98.95,11305.2,Cancelled,2026-04-27,2026
+62,CN50062,Sender_62,Receiver_62,WH239,Hyderabad,Kolkata,Box,54.98,19591.98,Delayed,2022-10-21,2022
+63,CN50063,Sender_63,Receiver_63,WH599,Delhi,Jaipur,Crate,51.45,11005.26,In Transit,2022-10-31,2022
+64,CN50064,Sender_64,Receiver_64,WH639,Pune,Ahmedabad,Box,6.31,20248.39,Delivered,2023-12-10,2023
+65,CN50065,Sender_65,Receiver_65,WH814,Bengaluru,Kolkata,Crate,54.18,12533.65,In Transit,2019-08-03,2019
+66,CN50066,Sender_66,Receiver_66,WH701,Bengaluru,Jaipur,Box,73.24,9892.88,Cancelled,2024-10-01,2024
+67,CN50067,Sender_67,Receiver_67,WH280,Mumbai,Kolkata,Crate,40.26,13375.23,Delivered,2025-04-08,2025
+68,CN50068,Sender_68,Receiver_68,WH958,Delhi,Nagpur,Envelope,27.36,8807.04,Delayed,2022-02-02,2022
+69,CN50069,Sender_69,Receiver_69,WH158,Delhi,Jaipur,Crate,56.62,19949.04,Delivered,2024-01-30,2024
+70,CN50070,Sender_70,Receiver_70,WH697,Pune,Ahmedabad,Envelope,57.74,3574.45,Cancelled,2024-02-13,2024
+71,CN50071,Sender_71,Receiver_71,WH898,Hyderabad,Kolkata,Crate,2.81,8336.04,In Transit,2024-09-16,2024
+72,CN50072,Sender_72,Receiver_72,WH507,Mumbai,Nagpur,Box,42.66,14388.28,Booked,2018-09-29,2018
+73,CN50073,Sender_73,Receiver_73,WH675,Mumbai,Jaipur,Crate,91.79,7323.72,Booked,2025-02-25,2025
+74,CN50074,Sender_74,Receiver_74,WH526,Pune,Nagpur,Envelope,46.74,24220.35,Cancelled,2025-07-15,2025
+75,CN50075,Sender_75,Receiver_75,WH927,Hyderabad,Ahmedabad,Box,97.1,20873.18,Cancelled,2019-11-17,2019
+76,CN50076,Sender_76,Receiver_76,WH245,Mumbai,Chennai,Box,93.29,5164.51,Delivered,2025-11-18,2025
+77,CN50077,Sender_77,Receiver_77,WH461,Pune,Kolkata,Crate,72.86,18917.17,Cancelled,2023-12-20,2023
+78,CN50078,Sender_78,Receiver_78,WH351,Hyderabad,Ahmedabad,Envelope,23.46,20764.57,In Transit,2025-01-16,2025
+79,CN50079,Sender_79,Receiver_79,WH380,Delhi,Nagpur,Pallet,23.54,10990.31,Delivered,2019-10-06,2019
+80,CN50080,Sender_80,Receiver_80,WH698,Hyderabad,Chennai,Envelope,85.26,13519.81,In Transit,2020-07-17,2020
+81,CN50081,Sender_81,Receiver_81,WH182,Hyderabad,Ahmedabad,Box,57.94,19033.01,Delayed,2023-05-27,2023
+82,CN50082,Sender_82,Receiver_82,WH847,Hyderabad,Chennai,Box,5.35,12929.18,In Transit,2021-10-17,2021
+83,CN50083,Sender_83,Receiver_83,WH959,Hyderabad,Jaipur,Box,78.54,5607.71,Cancelled,2020-08-28,2020
+84,CN50084,Sender_84,Receiver_84,WH848,Pune,Kolkata,Envelope,58.82,4446.64,Delayed,2023-06-17,2023
+85,CN50085,Sender_85,Receiver_85,WH640,Pune,Chennai,Box,64.78,12900.37,Delayed,2022-12-08,2022
+86,CN50086,Sender_86,Receiver_86,WH356,Hyderabad,Nagpur,Pallet,75.74,9428.76,Booked,2025-10-13,2025
+87,CN50087,Sender_87,Receiver_87,WH856,Bengaluru,Kolkata,Box,89.08,14933.36,Booked,2022-11-29,2022
+88,CN50088,Sender_88,Receiver_88,WH526,Pune,Kolkata,Pallet,31.67,20783.91,Delivered,2024-03-21,2024
+89,CN50089,Sender_89,Receiver_89,WH722,Bengaluru,Nagpur,Crate,43.35,6502.4,Delivered,2025-06-16,2025
+90,CN50090,Sender_90,Receiver_90,WH923,Bengaluru,Ahmedabad,Crate,68.07,8526.33,In Transit,2024-09-14,2024
+91,CN50091,Sender_91,Receiver_91,WH269,Bengaluru,Ahmedabad,Crate,27.59,9865.79,Cancelled,2019-07-18,2019
+92,CN50092,Sender_92,Receiver_92,WH885,Mumbai,Chennai,Envelope,80.15,21913.27,Booked,2023-10-01,2023
+93,CN50093,Sender_93,Receiver_93,WH441,Hyderabad,Ahmedabad,Crate,49.07,14506.84,In Transit,2024-10-12,2024
+94,CN50094,Sender_94,Receiver_94,WH698,Bengaluru,Jaipur,Crate,5.33,13852.42,In Transit,2025-03-26,2025
+95,CN50095,Sender_95,Receiver_95,WH562,Mumbai,Nagpur,Pallet,13.64,23205.84,Delayed,2023-05-30,2023
+96,CN50096,Sender_96,Receiver_96,WH565,Mumbai,Nagpur,Envelope,71.84,4150.35,Delayed,2023-06-12,2023
+97,CN50097,Sender_97,Receiver_97,WH571,Mumbai,Ahmedabad,Envelope,43.68,5662.72,Delivered,2026-04-29,2026
+98,CN50098,Sender_98,Receiver_98,WH312,Pune,Chennai,Crate,64.7,22407.64,Delayed,2024-08-07,2024
+99,CN50099,Sender_99,Receiver_99,WH477,Hyderabad,Kolkata,Envelope,83.4,13918.17,In Transit,2023-10-08,2023
+100,CN50100,Sender_100,Receiver_100,WH798,Bengaluru,Kolkata,Crate,46.88,12422.5,Delivered,2019-04-27,2019
